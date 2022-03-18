@@ -5,10 +5,10 @@
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter total Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter cell</b></label>
+    <label for="cell no"><b>Enter cell</b></label>
     <input type="text" placeholder="Enter cell number" name="mobile" id="mobile" required>
     <br>
 
