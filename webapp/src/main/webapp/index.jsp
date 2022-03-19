@@ -4,12 +4,12 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter peru</b></label>
-    <input type="text" placeholder="Enter total peru" name="Name" id="Name" required>
+    <label for="Name"><b>Enter name</b></label>
+    <input type="text" placeholder="Enter total name" name="Name" id="Name" required>
     <br>
     
-    <label for="cell no"><b>Enter cell</b></label>
-    <input type="text" placeholder="Enter cell number" name="mobile" id="mobile" required>
+    <label for="mobile no"><b>Enter cell</b></label>
+    <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
