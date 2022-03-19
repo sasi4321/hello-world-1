@@ -4,8 +4,8 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter full Name" name="Name" id="Name" required>
+    <label for="Name"><b>Enter peru</b></label>
+    <input type="text" placeholder="Enter total peru" name="Name" id="Name" required>
     <br>
     
     <label for="cell no"><b>Enter cell</b></label>
